@@ -1,0 +1,33 @@
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #CDFAD5;
+}
+
+.navbar .navbar-brand {
+    font-weight: 700;
+    font-style: italic;
+}
+
+#about{
+    background-color: #CDFAD5;
+}
+
+section{
+    padding-top: 6.5rem;
+    padding-bottom: 6rem;
+}
+
+#footer {
+    text-align: center;
+    padding: 5rem;
+}
+
+#footer .desc p{
+    font-weight: 300;
+    margin: 0;
+}
+
